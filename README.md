@@ -1,5 +1,21 @@
 # LS-Client-Auth
 
+*=======================================================*
+*** FINISHED TODOS ***
+* Tasks for: */components/signup.js*
+
+*=======================================================*\
+*** NEXT TODO ***
+* Tasks for: */components/HOC/RequireAuth.js*
+
+*=======================================================*
+*** CURRENT BUILD ERROR(S) ***
+* Failed to compile.
+### ./src/components/HOC/RequireAuth.js
+Line 5: *Your render method should have return statement*
+
+*=======================================================*
+
 ## Assignment
 Start your MongoDB server by running `mongod` from the command line.
 Start up your Auth server that we extended in the mini lab.
