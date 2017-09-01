@@ -2,16 +2,16 @@
 
 *=======================================================*
 *** FINISHED TODOS ***
-* Tasks for: */components/signup.js*
+#### * Tasks for: */components/signup.js*
 
-*=======================================================*\
+*=======================================================*
 *** NEXT TODO ***
-* Tasks for: */components/HOC/RequireAuth.js*
+#### * Tasks for: */components/HOC/RequireAuth.js*
 
 *=======================================================*
 *** CURRENT BUILD ERROR(S) ***
-* Failed to compile.
-### ./src/components/HOC/RequireAuth.js
+### Failed to compile.
+#### ./src/components/HOC/RequireAuth.js
 Line 5: *Your render method should have return statement*
 
 *=======================================================*
