@@ -13,9 +13,9 @@ export default (ComposedComponent) => {
 
         render() {
           if (!this.props.authenticated) {
-
+            return;
           } else {
-            return ComposedComponent;
+            return <ComposedComponent { }/>;
           }
             // Here, check to see if `this.props.authenticated` is true
             // If it isn't, then we don't want this component to return anything

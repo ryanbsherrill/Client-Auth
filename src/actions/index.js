@@ -51,7 +51,7 @@ export const login = (username, password, history) => {
   };
 };
 
-export const logout = () => {
+export const signOutUser = () => {
   return (dispatch) => {
     axios.post(`${ROOT_URL}/logout`)
       .then(() => {
